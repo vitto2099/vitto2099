@@ -1,63 +1,81 @@
-# 👨🏻‍💻 Vitor Kunicki
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,50:2575fc,100:1e3c72&height=180&section=header&text=Hello%20World!%20I'm%20Vitor%20Kunicki%20👨‍💻&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=40" alt="header"/>
+</div>
 
-**`Desenvolvedor FullStack`**
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=500&color=6A11CB&center=true&vCenter=true&width=450&lines=Software+Engineer+in+progress...;Full+Stack+Web+%26+Mobile+Dev;Code.+Learn.+Refactor.+Repeat." alt="Typing Animation" />
+</p>
 
-Oi sou o Vitor Kunicki, 21 anos, natural de Itaiópolis/SC e estudante de Engenharia de Software na Universidade do Contestado. Tenho experiência prática em desenvolvimento web e mobile, além de suporte técnico em TI. Gosto de entender a fundo como as coisas funcionam — do código-fonte ao comportamento do usuário. Tecnologia, para mim, é mais do que profissão: é lógica, criação e resolução de problemas. Valorizo performance, organização e código limpo. Estou sempre aprendendo algo novo e acredito que compartilhar conhecimento é uma das melhores formas de evoluir.
+---
 
-<p align="left">
-  <a href="https://github.com/vitto2099?tab=repositories&sort=stargazers">
-    <img 
-      alt="Total de estrelas" 
-      title="Total de estrelas GitHub" 
-      src="https://custom-icon-badges.demolab.com/github/stars/vitto2099?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-    />
-  </a>
-  <a href="https://github.com/vitto2099?tab=followers">
-    <img 
-      alt="Seguidores" 
-      title="Me siga no GitHub" 
-      src="https://custom-icon-badges.demolab.com/github/followers/vitto2099?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-    />
+## 🧠 About Me
+<div align="left">
+  <table>
+    <tr>
+      <td>👾 <b>Name</b>:</td>
+      <td>Vitor Kunicki</td>
+    </tr>
+    <tr>
+      <td>🗺️ <b>From</b>:</td>
+      <td>Itaiópolis - SC, Brazil</td>
+    </tr>
+    <tr>
+      <td>🎓 <b>Studying</b>:</td>
+      <td>Bachelor's in Software Engineering @ Universidade do Contestado (UNC)</td>
+    </tr>
+    <tr>
+      <td>🧪 <b>Stack Focus</b>:</td>
+      <td>Full Stack (Web & Mobile)</td>
+    </tr>
+    <tr>
+      <td>🧙‍♂️ <b>Fun Fact</b>:</td>
+      <td>I believe good software is like good magic — powerful, invisible, and well-structured.</td>
+    </tr>
+    <tr>
+      <td>💡 <b>Why I Code</b>:</td>
+      <td>I love teaching, learning, and solving real problems through tech. Code is my playground, logic is my weapon.</td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## ⚙️ Tech Arsenal
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,flutter,java,python,mysql,git,github,linux,vscode&theme=light&perline=9" alt="Skills"/>
   </a>
 </p>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+## 📊 GitHub Stats
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitor-kunicki&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitor-kunicki&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages"/>
+</div>
 
-<img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-<img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-<img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-<img align="left" alt="TypeScript" title="TypeScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-<img align="left" alt="React" title="React" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-<img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img align="left" alt="Java" title="Java" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-<img align="left" alt="Node.js" title="Node.js" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="Flutter" title="Flutter" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
-<img align="left" alt="WordPress" title="WordPress" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" />
-<img align="left" alt="MySQL" title="MySQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-<img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-
-<br/>
-<br/>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vitor-kunicki&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+</div>
 
 ---
 
-### 📊 Estatísticas
+## 📬 Contact Me
+<div align="center">
+  <a href="https://www.instagram.com/vittogoespunk/?hl=pt-br">
+    <img src="https://img.shields.io/badge/-Instagram-%236a11cb?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="mailto:vck987123@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-%231e3c72?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/vitorcamargokunicki/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230075E3?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</div>
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=vitto2099&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+---
 
-  <img 
-    align="left" 
-    alt="Top Langs" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitto2099&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</p>
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,50:2575fc,100:1e3c72&height=120&section=footer"/>
+</div>
