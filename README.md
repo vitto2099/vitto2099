@@ -43,7 +43,7 @@
 
 ## 🎧 Now Playing
 
-[![Spotify](https://spotify-now-playing-kappa.vercel.app/api/spotify)](https://open.spotify.com/user/31xt5d5ieqwk3yvluvui6sgxkyzu)
+[![Spotify](https://spotify-now-playing-kappa.vercel.app/api/spotify)](https://open.spotify.com/intl-pt/track/51EpFns3CG9taCMQz6XDom)
 
 ---
 
