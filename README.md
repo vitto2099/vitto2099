@@ -1,24 +1,25 @@
-<h1 align="center">🌌 Hello, I’m Vitor — Explorer of the Cosmos 👨‍🚀</h1>
+<h1 align="center">🌌 Hello, I’m Vitor — Cosmic Explorer 👨‍🚀</h1>
 <h3 align="center">Full Stack Developer | Metalhead 🤘 | Cat Companion 🐱 | Star Traveler ✨</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Charting+the+universe+of+code;React+%7C+Node.js+%7C+TypeScript;Always+exploring+new+worlds!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Exploring+the+universe+of+code;React+%7C+Node.js+%7C+TypeScript;Always+learning+something+new!" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif" width="200" alt="Starfield Spaceship"/>
-  <img src="https://media.giphy.com/media/xTiTnHv1h1eU9kU0Hq/giphy.gif" width="200" alt="Galaxy Travel"/>
-  <img src="https://media.giphy.com/media/l4pTdcifS6F6i5mPC/giphy.gif" width="200" alt="Interstellar"/>
+  <img src="https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif" width="200" alt="Star Wars GIF"/>
+  <img src="https://media.giphy.com/media/l3vRnoppYtfEbemBO/giphy.gif" width="200" alt="Starfield GIF"/>
+  <img src="https://media.giphy.com/media/xTiTnHv1h1eU9kU0Hq/giphy.gif" width="200" alt="No Man's Sky GIF"/>
+  <img src="https://media.giphy.com/media/xUOxf9ellv3muKAFTa/giphy.gif" width="200" alt="Interstellar GIF"/>
 </p>
 
 ---
 
 ## 🪐 About Me
 
-- 🖥️ Full stack developer traveling through **React**, **Node.js**, and **TypeScript** universes  
-- 🎓 Student of **Software Engineering**, constantly discovering new coding galaxies  
+- 🖥️ Full stack developer navigating through **React**, **Node.js**, and **TypeScript** universes  
+- 🎓 Software Engineering student, constantly discovering new tech galaxies  
 - 🤘 Metalhead — from **Iron Maiden** to interstellar riffs  
-- 🐱 Cat co-pilot always aboard my spaceship  
+- 🐱 Cat companion always aboard my spaceship  
 - 🚀 Passionate about **Star Wars**, **Starfield**, **No Man’s Sky**, and **Interstellar** — exploring unknown frontiers is life  
 
 ---
