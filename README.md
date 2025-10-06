@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer | Metalhead 🤘 | Cat Enthusiast 🐱 | Cosmic Explorer ✨</h3>
 
 <p align="center">
-  <img src="https://star-name-registry.com/modules/starconstpg/views/img/new/cygnus-cover.jpg" />
+  <img src="https://cdn.weasyl.com/~fluffkevlar/submissions/30165/efb64790c6059bf9f32f9922bdfd36fad18bdd135aff5f67e99a7f0f29749042/fluffkevlar-starfield-gif.gif" />
 </p>
 
 ---
