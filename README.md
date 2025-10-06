@@ -1,7 +1,5 @@
-<h1 align="center">
-  <img src="https://i.imgur.com/htZ6G3m.gif" width="30"/> 
-  <span style="color:#00FFFF; text-shadow: 0 0 10px #00FFFF, 0 0 20px #00FFFF;">Hello — I’m Vitor (Vitor Camargo Kunicki)</span> 👨‍🚀
-  <img src="https://i.imgur.com/htZ6G3m.gif" width="30"/>
+<h1 align="center" style="color:#00FFFF; text-shadow: 0 0 8px #00FFFF, 0 0 20px #00FFFF;">
+  🌌 Hello — I’m Vitor (Vitor Camargo Kunicki) 👨‍🚀
 </h1>
 
 <h3 align="center">
@@ -9,7 +7,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://cdn.weasyl.com/~fluffkevlar/submissions/30165/efb64790c6059bf9f32f9922bdfd36fad18bdd135aff5f67e99a7f0f29749042/fluffkevlar-starfield-gif.gif" width="600"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/NASA-Apollo8-Dec24-Earthrise.jpg" width="600" alt="Earthrise - NASA Apollo 8 (Public Domain)" />
 </p>
 
 ---
@@ -28,11 +26,11 @@
 ## ⚡ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,typescript,javascript,python,java,php,mysql,git,linux&theme=dark&perline=6" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,typescript,javascript,python,java,php,mysql,git,linux,go&theme=dark&perline=6" alt="Tech stack icons"/>
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/AyPz0R3.gif" width="400" alt="Cosmic Code Animation"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/NGC_6357%2C_The_War_and_Peace_Nebula.jpg" width="500" alt="War and Peace Nebula - NASA/ESA (Public Domain)" />
 </p>
 
 ---
@@ -46,10 +44,10 @@
 
 ---
 
-<h3 align="center">
+<h3 align="center" style="color:#00FFFF; text-shadow: 0 0 10px #00FFFF;">
   🛰️ “Somewhere, something incredible is waiting to be known.” — <i>Carl Sagan</i>
 </h3>
 
 <p align="center">
-  <img src="https://i.imgur.com/vqJv9nD.gif" width="200" alt="Spaceship animation"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/ESO_-_Milky_Way.jpg" width="500" alt="Milky Way - ESO (Public Domain)" />
 </p>
