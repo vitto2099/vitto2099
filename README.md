@@ -1,25 +1,25 @@
-<h1 align="center">🚀 Greetings, Earthlings! I'm Vitor 👨‍🚀</h1>
-<h3 align="center">Full Stack Developer exploring the galaxy 🌌 | Metalhead 🤘 | Cat lover 🐱</h3>
+<h1 align="center">🌌 Hello, I’m Vitor — Explorer of the Cosmos 👨‍🚀</h1>
+<h3 align="center">Full Stack Developer | Metalhead 🤘 | Cat Companion 🐱 | Star Traveler ✨</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Exploring+the+universe+of+code;React+%7C+Node.js+%7C+TypeScript;Learning+new+technologies+daily!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Charting+the+universe+of+code;React+%7C+Node.js+%7C+TypeScript;Always+exploring+new+worlds!" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif" width="200" />
-  <img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" width="200" />
-  <img src="https://media.giphy.com/media/xUPGcxpCV81ebKhkRS/giphy.gif" width="200" />
+  <img src="https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif" width="200" alt="Starfield Spaceship"/>
+  <img src="https://media.giphy.com/media/xTiTnHv1h1eU9kU0Hq/giphy.gif" width="200" alt="Galaxy Travel"/>
+  <img src="https://media.giphy.com/media/l4pTdcifS6F6i5mPC/giphy.gif" width="200" alt="Interstellar"/>
 </p>
 
 ---
 
-## 🧑‍🚀 About Me
+## 🪐 About Me
 
-- 🖥️ Full stack developer navigating the realms of **React**, **Node.js**, and **TypeScript**
-- 🎓 Currently studying **Software Engineering** while exploring new technologies
-- 🤘 Metalhead for life — let's talk about **Iron Maiden**, **Metallica**, or space metal riffs!
-- 🐱 Cat enthusiast — I might have a furry co-pilot on my coding missions
-- 🌌 Passionate about space, stars, and intergalactic coding adventures
+- 🖥️ Full stack developer traveling through **React**, **Node.js**, and **TypeScript** universes  
+- 🎓 Student of **Software Engineering**, constantly discovering new coding galaxies  
+- 🤘 Metalhead — from **Iron Maiden** to interstellar riffs  
+- 🐱 Cat co-pilot always aboard my spaceship  
+- 🚀 Passionate about **Star Wars**, **Starfield**, **No Man’s Sky**, and **Interstellar** — exploring unknown frontiers is life  
 
 ---
 
@@ -44,8 +44,8 @@
 ## 🌌 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vitto2099&show_icons=true&theme=dark" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitto2099&layout=compact&theme=dark" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vitto2099&show_icons=true&theme=dracula" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitto2099&layout=compact&theme=dracula" height="160"/>
 </p>
 
 ---
@@ -60,4 +60,4 @@
 
 ---
 
-> *"To infinity and beyond... but with clean code first!"*
+> *"In code we trust. Across galaxies we explore."* 🚀
