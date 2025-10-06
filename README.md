@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer | Metalhead 🤘 | Cat Enthusiast 🐱 | Cosmic Explorer ✨</h3>
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/NGC_3372a-full.jpg/1024px-NGC_3372a-full.jpg" alt="Carina Nebula (Hubble)" />
+  <img src="https://star-name-registry.com/modules/starconstpg/views/img/new/cygnus-cover.jpg" />
 </p>
 
 ---
