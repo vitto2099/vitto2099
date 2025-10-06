@@ -1,26 +1,32 @@
-<h1 align="center">Hello there, I'm Vitor 👋</h1>
-<h3 align="center">A passionate full stack developer, metalhead 🤘, and cat enthusiast 🐈</h3>
+<h1 align="center">🚀 Greetings, Earthlings! I'm Vitor 👨‍🚀</h1>
+<h3 align="center">Full Stack Developer exploring the galaxy 🌌 | Metalhead 🤘 | Cat lover 🐱</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+TypeScript;Always+learning+something+new!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Exploring+the+universe+of+code;React+%7C+Node.js+%7C+TypeScript;Learning+new+technologies+daily!" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif" width="200" />
+  <img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" width="200" />
+  <img src="https://media.giphy.com/media/xUPGcxpCV81ebKhkRS/giphy.gif" width="200" />
 </p>
 
 ---
 
-## 🧠 About Me
+## 🧑‍🚀 About Me
 
-- 🧑‍💻 I'm a full stack developer working mainly with **React**, **Node.js**, and **TypeScript**
-- 🎓 Studying **Software Engineering** and loving every bit of it!
-- 🎵 Metalhead at heart — feel free to talk to me about **Iron Maiden**, **Metallica**, and more
-- 🐱 I love cats! Check out some of my projects involving pet-related apps
-- 💬 Ask me about **Web Development** and **Mobile Development**, **clean code**, or how to survive a mosh pit
+- 🖥️ Full stack developer navigating the realms of **React**, **Node.js**, and **TypeScript**
+- 🎓 Currently studying **Software Engineering** while exploring new technologies
+- 🤘 Metalhead for life — let's talk about **Iron Maiden**, **Metallica**, or space metal riffs!
+- 🐱 Cat enthusiast — I might have a furry co-pilot on my coding missions
+- 🌌 Passionate about space, stars, and intergalactic coding adventures
 
 ---
 
-## 🧰 Tech Stack
+## 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
@@ -35,17 +41,16 @@
 
 ---
 
-## 📈 GitHub Stats
+## 🌌 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vitto2099&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitto2099mello
-    me&layout=compact&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vitto2099&show_icons=true&theme=dark" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitto2099&layout=compact&theme=dark" height="160"/>
 </p>
 
 ---
 
-## 🔗 Let's Connect
+## 🌠 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vitor-camargo-kunicki-6a426920b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -55,5 +60,4 @@
 
 ---
 
-> *"May the source be with you."*
-
+> *"To infinity and beyond... but with clean code first!"*
