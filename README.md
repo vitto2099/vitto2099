@@ -43,13 +43,6 @@
 
 ---
 
-## 🌌 GitHub Mission Control
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vitto2099&show_icons=true&theme=dark&bg_color=000000&icon_color=00FFFF&title_color=00FFFF" height="160" alt="Vitor's GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitto2099&layout=compact&theme=dark&bg_color=000000&title_color=00FFFF" height="160" alt="Top Languages"/>
-</p>
+## 📡 "Somewhere, something incredible is waiting to be known." — Carl Sagan
 
 ---
-
-## 📡 "Somewhere, something incredible is waiting to be known." — Carl Sagan
